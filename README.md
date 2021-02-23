@@ -23,7 +23,7 @@ This Shopware module provides an easy method to integrate with the payment gatew
 # Installing and configuring the module
 
 1. Copy the contents of httpdocs to the root folder of your Shopware install
-2. Log into your store backend with your username and password
+2. Log in to your store backend with your username and password
 3. Find "Payment Network" in the list on Settings > System > Plugins
 4. Click the big blue 'Install' button and then click the large 'Activate' button
 5. Enter your merchantID and Signature key in the boxes at the bottom of the panel and click 'Save'
